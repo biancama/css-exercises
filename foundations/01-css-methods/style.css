@@ -1,0 +1,10 @@
+body {
+    vertical-align:middle;
+}
+div {
+	background-color: red;
+	color: white;
+	font-size: 2rem;
+	text-align: center;
+	font-weight: bold;
+}
